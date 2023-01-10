@@ -18,7 +18,15 @@ h2{
     text-align: center;
     color: rgb(247, 5, 146); 
 }
+ a{
+    color:rgb(6, 249, 249);
+    text-align: center;
+ }
 
+ a:hover{
+    background-color: rgb(36, 10, 235);
+ }
+ 
 .QR{
     font-size: 30px;
     font-family: 'Roboto Mono', monospace;
