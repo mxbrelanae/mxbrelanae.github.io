@@ -4,7 +4,9 @@ body{
 
 h1{
     font-size: 50px;
-    font-family: 'Roboto Mono', monospace;
+    font-family: 'Nasalization', sans-serif;
+    font-style: normal;
+    font-weight: 800;
     margin: auto;
     text-align: center;
     color: rgb(234, 151, 27);
@@ -13,7 +15,9 @@ h1{
 
 h2{
     font-size: 45px;
-    font-family: 'Roboto Mono', monospace;
+    font-family: 'Nasalization', sans-serif;
+    font-style: normal;
+    font-weight: 400;
     margin: auto;
     text-align: center;
     color: rgb(247, 5, 146); 
@@ -37,7 +41,9 @@ h2{
 
 h3{
     font-size: 36px;
-    font-family: 'Roboto Mono', monospace;
+    font-family: 'Nasalization', sans-serif;
+    font-style: normal;
+    font-weight: 200;
     margin: auto;
     text-align: center;
     color: rgb(53, 224, 15);  
