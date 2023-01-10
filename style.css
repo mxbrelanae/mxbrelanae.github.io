@@ -1,0 +1,44 @@
+body{
+    background-image: url(https://www.wallpapertip.com/wmimgs/182-1822995_4k-ultra-hd-desktop-backgrounds-galaxy-wallpaper-hd.jpg);
+}
+
+h1{
+    font-size: 50px;
+    font-family: 'Roboto Mono', monospace;
+    margin: auto;
+    text-align: center;
+    color: rgb(234, 151, 27);
+
+}
+
+h2{
+    font-size: 40px;
+    font-family: 'Roboto Mono', monospace;
+    margin: auto;
+    text-align: center;
+    color: rgb(234, 151, 27); 
+}
+
+.QR{
+    font-size: 30px;
+    font-family: 'Roboto Mono', monospace;
+    margin: auto;
+    text-align: center;
+    color: rgb(234, 151, 27);         
+}
+
+h3{
+    font-size: 36px;
+    font-family: 'Roboto Mono', monospace;
+    margin: auto;
+    text-align: center;
+    color: rgb(234, 151, 27);  
+}
+
+.attributes{
+    font-size: 18px;
+    font-family: 'Rock Salt';
+    color: rgb(234, 151, 27);
+    position: absolute;
+    bottom: -50;
+}
